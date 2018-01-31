@@ -1,0 +1,284 @@
+
+[2017-09-10 16:05:43] Traceback (most recent call last):
+
+  File "run.py", line 240, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 103, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 136, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Downloads\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-10 17:24:17] Traceback (most recent call last):
+
+  File "run.py", line 240, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 103, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 136, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Downloads\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-10 17:35:45] Traceback (most recent call last):
+
+  File "run.py", line 242, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 103, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 136, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Downloads\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-10 18:49:24] Traceback (most recent call last):
+
+  File "run.py", line 255, in <module>
+    app = CefApplication(sys.argv)
+
+  File "run.py", line 105, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 138, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Downloads\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-10 18:50:58] Traceback (most recent call last):
+
+  File "run.py", line 253, in <module>
+    cefpython.Initialize(settings, switches)
+
+KeyboardInterrupt
+
+
+[2017-09-10 18:53:04] Traceback (most recent call last):
+
+  File "run.py", line 259, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 105, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 138, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Downloads\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-10 23:01:23] Traceback (most recent call last):
+
+  File "run.py", line 292, in <module>
+    app.processEvent()
+
+AttributeError: 'CefApplication' object has no attribute 'processEvent'
+
+
+[2017-09-10 23:29:43] Traceback (most recent call last):
+
+  File "run.py", line 300, in <module>
+    splash.finish(form)
+
+NameError: name 'form' is not defined
+
+
+[2017-09-10 23:40:54] Traceback (most recent call last):
+
+  File "run.py", line 300, in <module>
+    splash.finish(form)
+
+NameError: name 'form' is not defined
+
+
+[2017-09-10 23:45:17] Traceback (most recent call last):
+
+  File "run.py", line 300, in <module>
+    splash.finish()
+
+TypeError: QSplashScreen.finish(QWidget): not enough arguments
+
+
+[2017-09-10 23:48:40] Traceback (most recent call last):
+
+  File "run.py", line 299, in <module>
+    splash.finish()
+
+TypeError: QSplashScreen.finish(QWidget): not enough arguments
+
+
+[2017-09-11 08:07:49] Traceback (most recent call last):
+
+  File "run.py", line 169, in onTimer
+    def onTimer(self):
+
+KeyboardInterrupt
+
+
+[2017-09-11 13:52:55] Traceback (most recent call last):
+
+  File "run.py", line 278, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 107, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 140, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Desktop\final test\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-11 14:07:02] Traceback (most recent call last):
+
+  File "run.py", line 278, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 107, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 140, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Desktop\final test\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-11 15:04:42] Traceback (most recent call last):
+
+  File "run.py", line 278, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 107, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 140, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Desktop\finaltest\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-11 15:10:00] Traceback (most recent call last):
+
+  File "run.py", line 278, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 107, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 140, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Desktop\finaltest\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-11 15:15:05] Traceback (most recent call last):
+
+  File "run.py", line 278, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 107, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 140, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Desktop\finaltest\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-11 15:51:05] Traceback (most recent call last):
+
+  File "run.py", line 278, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 107, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 140, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Desktop\finaltest\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-11 15:56:39] Traceback (most recent call last):
+
+  File "run.py", line 278, in <module>
+    mainWindow = MainWindow()
+
+  File "run.py", line 107, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "run.py", line 140, in __init__
+    result = sock.connect_ex(('127.0.0.1',5423))
+
+  File "C:\Users\Essential\Desktop\finaltest\gpos-dist\py-dist\python-2.7.10\lib\socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+
+KeyboardInterrupt
+
+
+[2017-09-11 15:56:39] Traceback (most recent call last):
+
+  File "run.py", line 175, in onTimer
+    cefpython.MessageLoopWork()
+
+KeyboardInterrupt
+
+
+[2017-09-16 04:09:51] Traceback (most recent call last):
+
+  File "rundb.py", line 169, in onTimer
+    def onTimer(self):
+
+KeyboardInterrupt
+
+
+[2017-09-17 18:46:40] Traceback (most recent call last):
+
+  File "rundb.py", line 169, in onTimer
+    def onTimer(self):
+
+KeyboardInterrupt
+
