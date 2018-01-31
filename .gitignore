@@ -1,0 +1,6 @@
+.env
+.venv
+app/
+py-dist/saleor/logs/*
+py-dist/python-*
+
