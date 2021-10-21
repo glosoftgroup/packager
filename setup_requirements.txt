@@ -1,6 +1,6 @@
 AfricastalkingGateway==1.8
 appdirs==1.4.0
-Babel==2.3.4
+Babel==2.9.1
 BabelDjango==0.2.2
 boto3==1.4.4
 botocore==1.5.4
