@@ -55,7 +55,7 @@ ipaddress==1.0.18
 iso8601==0.1.11
 jmespath==0.9.0
 jsonfield==1.0.3
-lxml==3.8.0
+lxml==4.9.1
 Markdown==2.6.7
 maxminddb==1.2.3
 maxminddb-geolite2==2015.708
